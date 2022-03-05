@@ -15,4 +15,8 @@ body{
         position: relative;
 
      }
+     header {
+        background-size: auto, auto, auto, cover;
+        text-align: center;
+      }
 	
