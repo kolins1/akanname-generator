@@ -19,6 +19,7 @@
 ## HTML-Wich was used to to define the content of web pages.
 ## CSS-Which was used to specify the layout of web pages.
 ## javaScript-Which was used to program the behavior of web pages.
+## BOOTSTRAP- Gives you the ability to easily create responsive designs
 # live site
 ## kolins1.github.io/akanname-generator/
 # licence
