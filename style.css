@@ -15,12 +15,13 @@ form{
 #day {
 	background-color: transparent;
 	width: 200px;
-	height: 1oopx;
+	height: 30px;
 }
 
 #month {
+	height: 30px;
 	background-color: transparent;
-
+	width: 200px;
 }
 #year{
 	background-color: transparent;
