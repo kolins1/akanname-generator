@@ -20,31 +20,7 @@ form{
 	background-color: transparent;
 
 }
-
-.Top {
-
-	border-radius: 40px;
-	text-align: center;
+#year{
+	background-color: transparent;
 }
 
-.Male {
-	background-color: lightblue;
-	border-radius: 40px;
-	text-align: center;
-}
-
-.Female {
-	background-color: lightgreen;
-	border-radius: 40px;
-	text-align: center;
-}
-
-#year {
-	background: transparent;
-}
-
-.Calculator {
-	background-color: lightgreen;
-	border-radius: 40px;
-	text-align: center;
-}
