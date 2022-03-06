@@ -25,5 +25,7 @@ form{
 }
 #year{
 	background-color: transparent;
+	width: 200px;
+	height: 30px;
 }
 
