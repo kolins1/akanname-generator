@@ -32,4 +32,10 @@ form{
 	height: 30px;
 }
 
-
+.end{
+	position: absolute;
+	color: #fff;
+	bottom: 35px;
+	font-size: 14px; 
+	text-align: center;
+}
