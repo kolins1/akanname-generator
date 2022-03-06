@@ -11,6 +11,9 @@ form{
 .h1 {
 	color: white;
 }
+.h2{
+	color: white;
+}
 
 #day {
 	background-color: transparent;
@@ -28,4 +31,5 @@ form{
 	width: 200px;
 	height: 30px;
 }
+
 
