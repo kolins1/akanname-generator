@@ -1,0 +1,47 @@
+body {
+	background-image: url("image/Ghanaian-Woman.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.h1 {
+	color: white;
+}
+
+#day {
+	background-color: transparent;
+}
+
+#month {
+	background-color: transparent;
+
+}
+
+.Top {
+
+	border-radius: 40px;
+	text-align: center;
+}
+
+.Male {
+	background-color: lightblue;
+	border-radius: 40px;
+	text-align: center;
+}
+
+.Female {
+	background-color: lightgreen;
+	border-radius: 40px;
+	text-align: center;
+}
+
+#year {
+	background: transparent;
+}
+
+.Calculator {
+	background-color: lightgreen;
+	border-radius: 40px;
+	text-align: center;
+}
